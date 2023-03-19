@@ -1,6 +1,6 @@
 # ✨很高兴认识你！
 
-> Want to read [English version](https://github.com/Seayay/Seayay/README_en.md)?
+> Want to read [English version](https://github.com/Seayay/Seayay/blob/main/README_en.md)?
 
 你好，我是思遥方 *aka* Seayay！英文名的发音是*see i ya*。
 
