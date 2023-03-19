@@ -29,7 +29,7 @@ Minecraft、明日方舟（国服）、Apex Legends。
 
 # 📫联系方式
 
-SMS 即时通信：
+IM 即时通信：
 
 1. 腾讯 QQ - 3560481179
 2. [Telegram @siyaofang](https://t.me/siyaofang)
