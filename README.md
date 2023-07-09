@@ -12,13 +12,13 @@ Minecraft、明日方舟（国服）、Apex Legends。
 
 ## 🖥️设备
 
-1. 处理器：AMD Ryzen 7 5800X 8-Core Processor 八核
+1. 处理器：AMD Ryzen 7 5800X 8-Core Processor
 2. 主板：华硕 TUF GAMING B550M-PLUS
 3. 内存：16GB DDR4 3200MHz (8GB + 8GB)
 4. 显卡：NVIDIA GeForce GTX 960 (2GB / 七彩虹)
 5. 显示器：HPDVI GRH3200 (31.5 英寸)
 6. 磁盘：ADATA SP600 (128GB) + Samsung SsD 870 EVO 500GB
-7. 头戴耳机：Rapoo VH160
+7. 头戴耳机：RAZER KRAKEN 雷蛇北海巨妖 (黑色)
 8. 路由器：华为路由TC7102 (中国电信定制版)
 
 ## 🔧工具
