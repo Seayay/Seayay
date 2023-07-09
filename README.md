@@ -38,5 +38,5 @@ IM 即时通信：
 电子邮箱：
 
 1. **(推荐)** [siyaofang@126.com](mailto://siyaofang@126.com)
-2. [siyaofang@seayay.icu](mailto://siyaofang@seayay.icu)
-3. **(仅接收心火计划相关事务)** [seayay@project-heartfire.com](mailto://seayay@project-heartfire.com)
+2. [seayay@seayay.top](mailto://seayay@seayay.top)
+3. **(仅接收心火计划相关事务)** [seayay@hfpro.top](mailto://seayay@hfpro.top)
