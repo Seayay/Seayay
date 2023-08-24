@@ -6,7 +6,7 @@
 
 # 🕹️常玩游戏
 
-Minecraft、明日方舟（国服）、Apex Legends。
+Minecraft、明日方舟（国服）、卡拉彼丘。
 
 # 🪄设备与工具
 
