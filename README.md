@@ -24,7 +24,7 @@ Minecraft、明日方舟（国服）、Apex Legends。
 ## 🔧工具
 
 1. 文本编辑器：Visual Studio Code
-2. 音乐播放器：网易云音乐、iTunes
+2. 音乐播放器：网易云音乐（LyricEase）、Apple Music
 3. More…… *待补充*
 
 # 📫联系方式
@@ -33,7 +33,6 @@ IM 即时通信：
 
 1. 腾讯 QQ - 3560481179
 2. [Telegram @siyaofang](https://t.me/siyaofang)
-3. [Twitter @Seayay2](https://twitter.com/Seayay2)
 
 电子邮箱：
 
