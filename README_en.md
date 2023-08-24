@@ -20,13 +20,13 @@ Minecraft, Arknights (CN Server), Apex Legends.
 4. Graphics card: NVIDIA GeForce GTX 960 (2GB / Colorful)
 5. Monitor: HPDVI GRH3200 (31.5 inches)
 6. Disk: ADATA SP600 (128GB) + Samsung SsD 870 EVO 500GB
-7. Headphones: Rapoo VH160
+7. Headphones: Razer KARKEN
 8. Router: Huawei router TC7102 (China Telecom customized version)
 
 ## 🔧Tools
 
 1. Text editor: Visual Studio Code
-2. Music player: NetEase Cloud Music, iTunes
+2. Music player: NetEase Cloud Music (LyricEase), Apple Music
 3. More... *to be added*
 
 # 📫 Contact
@@ -35,7 +35,6 @@ IM instant messaging:
 
 1. Tencent QQ - 3560481179
 2. [Telegram @siyaofang](https://t.me/siyaofang)
-3. [Twitter @Seayay2](https://twitter.com/Seayay2)
 
 E-mail:
 
