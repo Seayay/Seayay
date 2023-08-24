@@ -8,7 +8,7 @@ Hello, I'm Siyaofang *aka* Seayay! The English name is pronounced *see i ya*.
 
 # 🕹️ often play games
 
-Minecraft, Arknights (CN Server), Apex Legends.
+Minecraft, Arknights (CN Server), Calabiyau.
 
 # 🪄Equipment and Tools
 
