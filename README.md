@@ -24,7 +24,8 @@ Minecraft、明日方舟（国服）、卡拉彼丘。
 ## 🔧工具
 
 1. 文本编辑器：Visual Studio Code
-2. 音乐播放器：网易云音乐（LyricEase）、Apple Music
+2. 音乐播放器：Spotify + Lyricify、网易云音乐、Apple Music
+> [Lyricify](https://github.com/WXRIW/Lyricify-App) 是一款为 Spotify 提供滚动歌词和更多功能的软件。
 3. More…… *待补充*
 
 # 📫联系方式
