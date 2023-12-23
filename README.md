@@ -2,7 +2,7 @@
 
 > Want to read [English version](https://github.com/Seayay/Seayay/blob/main/README_en.md)?
 
-你好，我是思遥方 *aka* Seayay！英文名的发音是*see i ya*。
+你好，我是思遥方！一名本地化贡献者与 Minecraft 内容创作者。
 
 # 🕹️常玩游戏
 
