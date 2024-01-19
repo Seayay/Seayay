@@ -3,7 +3,8 @@
 > Want to read [English version (outdated)](https://github.com/Seayay/Seayay/blob/main/README_en.md)?
 
 你好，我是思遥方，一名本地化贡献者与 Minecraft 内容创作者。
-头像原图：[祢尔MERE](https://miermere.lofter.com/post/4d02bec5_2baaed818)
+
+头像原图：[祢尔MERE 的 LOFTER（乐乎）](https://miermere.lofter.com/post/4d02bec5_2baaed818)
 
 # 🕹️常玩游戏
 
