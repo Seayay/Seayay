@@ -15,7 +15,9 @@ Minecraft、卡拉彼丘、重返未来：1999。
 ## 🖥️设备
 
 处理器：AMD Ryzen 7 5800X 8-Core Processor
+
 显卡：NVIDIA GeForce GTX 960 (2GB / 七彩虹)
+
 耳机：品存 ANC-05L (奶白色)
 
 ## 🔧工具
