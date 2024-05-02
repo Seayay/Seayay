@@ -29,5 +29,5 @@ Minecraft、卡拉彼丘。
 电子邮箱：
 
 1. [siyaofang@126.com](mailto://siyaofang@126.com)
-2. **不常上线** [me@1kyr.top](mailto://seayay@seayay.top)
-3. **心火计划相关** [1kyr@hfpro.top](mailto://seayay@hfpro.top)
+2. **不常上线** [me@1kyr.top](mailto://me@1kyr.top)
+3. **心火计划相关** [1kyr@hfpro.top](mailto://1kyr@hfpro.top)
