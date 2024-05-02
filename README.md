@@ -8,7 +8,7 @@
 
 # 🕹️常玩游戏
 
-Minecraft、卡拉彼丘、重返未来：1999。
+Minecraft、卡拉彼丘。
 
 # 🪄设备与工具
 
@@ -17,8 +17,6 @@ Minecraft、卡拉彼丘、重返未来：1999。
 处理器：AMD Ryzen 7 5800X 8-Core Processor
 
 显卡：NVIDIA GeForce GTX 960 (2GB / 七彩虹)
-
-耳机：品存 ANC-05L (奶白色)
 
 ## 🔧工具
 
@@ -31,5 +29,5 @@ Minecraft、卡拉彼丘、重返未来：1999。
 电子邮箱：
 
 1. [siyaofang@126.com](mailto://siyaofang@126.com)
-2. **不常上线** [seayay@seayay.top](mailto://seayay@seayay.top)
+2. **不常上线** [me@1kyr.top](mailto://seayay@seayay.top)
 3. **心火计划相关** [1kyr@hfpro.top](mailto://seayay@hfpro.top)
