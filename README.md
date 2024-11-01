@@ -2,6 +2,8 @@
 
 > Want to read [English version (outdated)](https://github.com/Seayay/Seayay/blob/main/README_en.md)?
 
+[![在爱发电赞助我](https://img.shields.io/badge/%E5%9C%A8%E7%88%B1%E5%8F%91%E7%94%B5%E8%B5%9E%E5%8A%A9%E6%88%91-blueviolet?logo=buymeacoffee&logoColor=white&style=flat)](http://pay.1kyr.top/)
+
 你好，我是思遥方，一名本地化贡献者与 Minecraft 内容创作者。
 
 头像原图：[祢尔MERE 的 LOFTER（乐乎）](https://miermere.lofter.com/post/4d02bec5_2baaed818)
