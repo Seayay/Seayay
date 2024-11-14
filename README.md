@@ -23,13 +23,11 @@ Minecraft、卡拉彼丘。
 ## 🔧工具
 
 1. 文本编辑：Visual Studio Code、记事本
-2. 音乐播放：Spotify + Lyricify、Apple Music
-3. 密码管理：BitWarden
+2. 音乐播放：Spotify + Lyricify
+3. 密码管理：Google 密码管理工具
 
 # 📫联系方式
 
 电子邮箱：
 
-1. [siyaofang@126.com](mailto://siyaofang@126.com)
-2. **不常上线** [me@1kyr.top](mailto://me@1kyr.top)
-3. **心火计划相关** [1kyr@hfpro.top](mailto://1kyr@hfpro.top)
+1. [siyaofang@126.com](mailto:siyaofang@126.com)
