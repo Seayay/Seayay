@@ -48,6 +48,6 @@ Minecraft。
 
 # 👀访问次数
 
-![](https://count.getloli.com/@gh-personal?name=gh-personal&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@1kyr-gh-personal?name=gh-personal&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 # 脚注
