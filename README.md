@@ -46,4 +46,8 @@ Minecraft。
 
 1. [siyaofang@126.com](mailto:siyaofang@126.com)
 
+# 👀访问次数
+
+![](https://count.getloli.com/@gh-personal?name=gh-personal&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 # 脚注
